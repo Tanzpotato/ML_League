@@ -1,2 +1,4 @@
-# ML_League-Assignment1
-My submission with the code notebook and final predictions for ML League Regression assignment
+# ML_League
+
+The branches of this repository contain kaggle code notebooks along with the final submission for the ML League assignments which involved data preprocessing and building tree based regression and classification models along with artificial neural networks and convolutional neural networks
+
